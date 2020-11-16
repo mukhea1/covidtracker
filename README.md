@@ -1,9 +1,8 @@
-# Covid Trackar
+# Covid Tracker
 This is an app which tracks the covid cases across the world. 
 It's powered by data from [disease.sh](https://disease.sh/)
 
-Completely written in React. This is just a learning project. deployed to firebase.
-you can view the app in live https://covid-trackar.web.app/
+Completely written in React. This is just a learning project to be deployed to firebase and the app link will be posted here soon!
 
 
 ## Local - Setup
